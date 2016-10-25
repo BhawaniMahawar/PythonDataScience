@@ -1,0 +1,66 @@
+salesforce[soql](onlyread)-sql-sqbn database(write)
+
+
+mapping new fields from salesforce to local database(quite confusing)
+----------------------------------------------------
+getting from salesforce
+--------------------------
+eqa data
+webreference
+
+repositry
+salesforece
+
+query,add new field
+result
+
+add new member in oppurty/anyobject
+
+mapping to sql
+--------------------
+mapping in quotedetails
+
+
+
+
+
+1- Add the field in soql query related to respective repositry 
+
+2-quoteenityt
+
+3-mapping quote detail
+
+4-map to dto
+
+
+
+
+
+For new Entry
+-----------------
+delete from quottesummary where created on >=(select max(createdon) from quotesummary)
+order entry
+quote rmr
+quote summary
+
+
+test project 
+----------------
+test-windows-testexplorer
+
+select
+
+debug
+
+
+deployement
+------------------------
+for batchfile - eqsbnautomation
+
+
+
+
+
+
+
+
